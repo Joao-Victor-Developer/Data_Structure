@@ -8,15 +8,6 @@ namespace aluno
 {
     internal class Program
     {
-/*************  ✨ Windsurf Command ⭐  *************/
-        /// <summary>
-        /// Main entry point
-        /// </summary>
-        /// <remarks>
-        /// This program asks the user for their grade and then prints out whether they need to be improved, need to take a recap, or are approved.
-        /// </remarks>
-        /// <param name="args">Command-line arguments</param>
-/*******  881dc343-6be3-4a42-a5b0-1e3f887bce0d  *******/
         static void Main(string[] args)
         {
 
