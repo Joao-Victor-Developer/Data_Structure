@@ -1,4 +1,4 @@
-i = 0
+
 fila = []
 while True:
     print("1 informar nome")
